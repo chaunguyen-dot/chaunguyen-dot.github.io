@@ -1,0 +1,64 @@
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+}
+#wrapper{
+	height: 1250px;
+	width: 965px;
+	background-color: antiquewhite;
+	margin: 0 auto;
+}
+.header{
+	height: 170px;
+	width: 965px;
+	background-color: white;
+}
+.header .logo-left{
+	height: 170px;
+	width: 303px; 
+	background-color: aliceblue;
+}
+.header .menu{
+	height: 170px;
+	width: 662px;
+	background-color: #2F2F2F;
+	float: right;
+}
+.header .menu-title{
+	margin: 75px;
+	text-align: center;
+}
+.body .title{
+	height: 800px;
+	width: 965px;
+	background-color: black;
+}
+.body .banner{
+	height: 600px;
+	width: 303px;
+	float: right;
+}
+.body .content{
+	height: 600px;
+	width: 662px;
+	background-color: antiquewhite;
+	float: left;
+}
+.body .projects{
+	height: 180px;
+	width: 965px;
+	background-color: #85B04B;
+}
+.body .projects .box{
+	height: 180px;
+	width: 210px;
+	background-color: beige;
+	float: left;
+	margin-left: 25px;
+}
+.footer{
+	height: 100px;
+	width: 965px;
+	background-color: #B17A1E;
+}
